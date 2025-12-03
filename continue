@@ -1,4 +1,8 @@
 im at the computer part, i need to be able to find BOTH according to the priority rules and the ordering.
 i also need to finish the main loop, and maybe refine some functions.
 
-:D
+:(
+
+
+I need to change a lot in the computer check logic, since if it already has a 3 steak, every move will trigger it...
+i dont know.
